@@ -1,0 +1,10 @@
+# folder
+.vscode
+
+# file type
+*.svg
+*.pyc
+*.pth
+*.npy
+*.png
+*.txt
