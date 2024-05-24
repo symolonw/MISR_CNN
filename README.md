@@ -51,3 +51,6 @@ technology expands the variety of imagery sources available to the Department of
 * Expand the current training/testing datasets to include more variety of terrain types and feature complexity
 * Develop a MISR Generative Adversarial Network architecture
 * Combine various network types in series; e.g. a series architecture that includes a MISR CNN, followed by a SISR GAN
+
+## Disclaimer
+The authors are unable to provide the original training and testing image datasets, at this time, due to proprietary concerns.  The images were provided by Maxar, under a service provider agreement with the U.S. Government.
