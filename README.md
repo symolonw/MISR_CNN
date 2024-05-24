@@ -18,10 +18,14 @@ technology expands the variety of imagery sources available to the Department of
 
 ### Dependencies
 
-!pip install torchviz
-
-!pip install graphviz
-
-!pip install torchview
-
+!pip install torchviz \
+!pip install graphviz \
+!pip install torchview \
 !pip install torchinfo
+
+### Test
+1. Clone this github repo
+2. Upload misr_cnn.ipynb file to Google drvie and open with Google Colabratory
+3. Load one of the provided pre-trained models (*.pth)
+4. Create Allimages folder and upload your low-res test images
+5. Results will be in ./output folder
